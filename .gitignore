@@ -1,0 +1,4 @@
+.vagrant/
+nginx-perf-test/
+nginx/*_temp/
+nginx/logs
